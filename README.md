@@ -1,3 +1,9 @@
+Comandos
+
+//Para los estilos de los formularios
+https://github.com/tailwindlabs/tailwindcss-forms
+
+
 # TrelloClone
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.5.
