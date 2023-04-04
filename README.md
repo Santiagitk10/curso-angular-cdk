@@ -1,3 +1,25 @@
+Comandos:
+
+ng new trello-clone
+
+routing y
+
+scss
+
+//Guía para instalar tailwind https://tailwindcss.com/docs/guides/angular
+
+npm install -D tailwindcss postcss autoprefixer  //Para instalar tailwind
+
+npx tailwind init //para generar el archivo tailwind.config
+
+Terminar configuración tailwind según guia en  los archivos indicados
+
+También es bueno instalar la extensión de vs code Tailwind CSS IntelliSense para ir aprendiendo css
+
+ng add @angular/cdk  // Para agregar el cdk, en este caso no se va a ulizar material design
+
+
+
 # TrelloClone
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli).
