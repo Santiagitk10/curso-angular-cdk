@@ -20,6 +20,11 @@ ng add @angular/cdk  // Para agregar el cdk, en este caso no se va a ulizar mate
 
 
 
+//PARA OMITIR EN LOS COMPONENTES LOS ARCHIVOS DE STYLE Y DE TESTS
+ng g c pages/login --style=none --skip-tests
+
+
+
 # TrelloClone
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli).
