@@ -1,3 +1,11 @@
+
+Documentación y Boilerplate Drag and Drop
+
+https://gist.github.com/nicobytes/92f050c77c8c8e5be63e97c1ae0b9c83#board
+
+https://material.angular.io/cdk/drag-drop/overview
+
+
 # TrelloClone
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.5.
