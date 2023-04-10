@@ -1,3 +1,12 @@
+
+Boilerplate del scrolling
+
+https://gist.github.com/nicobytes/92f050c77c8c8e5be63e97c1ae0b9c83#scrolling
+
+Fake API platzi
+
+https://fakeapi.platzi.com/
+
 # TrelloClone
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.5.
