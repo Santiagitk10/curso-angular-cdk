@@ -1,3 +1,9 @@
+
+Estilos en las tablas con Flowbite
+
+https://flowbite.com/docs/components/tables/
+
+
 # TrelloClone
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.5.
