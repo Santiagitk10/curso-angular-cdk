@@ -22,6 +22,7 @@ export class DataSourceProduct extends DataSource<Product> {
         .reduce((price, total) => price + total, 0);
   }
 
+  //El Partial sirve para que las propiedades del producto sean opcionales
   update(id: Product['id'], changes: Partial<Product>) {
     const products = this.data.getValue();
     const productIndex = products.findIndex(item => item.id === id);
